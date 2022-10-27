@@ -1,4 +1,4 @@
-# SurfsUp_Challenge
+# SurfsUp
 ## Overview of the statistical analysis:
  This analysis reviewed more information about temperature trends before opening the surf shop.
  Temperature data in Oahu for the months of June and December is required to to determine if the 
